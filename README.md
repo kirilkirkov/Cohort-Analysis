@@ -7,7 +7,7 @@
 * See more at: http://andrewchen.co/the-easiest-spreadsheet-for-churn-mrr-and-cohort-analysis-guest-post/
 
 ### Script was created from here with little differences:
-* 
+* https://github.com/kirilkirkov/Cohort-Analysis/blob/master/ChristophJanz_SaaSCohortAnalysis1.xlsx
 
 
 ### Using:
